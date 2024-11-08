@@ -1,0 +1,2 @@
+# candiman
+candidate management tool
